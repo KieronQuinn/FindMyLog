@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMyLog</string>
+    <string name="xposed_description"><![CDATA[Hook & log Find Device]]></string>
+</resources>
